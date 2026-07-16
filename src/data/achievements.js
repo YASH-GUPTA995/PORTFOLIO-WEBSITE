@@ -3,7 +3,7 @@ export const achievements = [
   { title: '250+ DSA Problems', subtitle: 'Solved across coding platforms' },
   { title: '99% in Class XII', subtitle: 'Senior Secondary' },
   { title: '99.2% in Class X', subtitle: 'Secondary' },
-  { title: 'Bareilly Division Topper', subtitle: 'Class X' },
+  { title: 'Bareilly Division Topper', subtitle: 'Class XII' },
   { title: 'District Topper', subtitle: 'Class X' },
 ]
 
