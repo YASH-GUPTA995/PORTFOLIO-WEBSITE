@@ -1,8 +1,8 @@
 export const SOCIAL_LINKS = {
-  github: 'FILL_GITHUB_LINK',
-  linkedin: 'FILL_LINKEDIN_LINK',
-  leetcode: 'FILL_LEETCODE_LINK',
-  resume: 'FILL_RESUME_LINK',
+  github: 'https://github.com/YASH-GUPTA995',
+  linkedin: 'https://www.linkedin.com/in/yash-gupta-nit-delhi/',
+  leetcode: 'https://leetcode.com/u/YASH_GUPTA_0995',
+  resume: '',
   email: 'engineeryash0995@gmail.com',
 }
 
@@ -33,11 +33,11 @@ export const QUICK_FACTS = [
   'ML Enthusiast',
 ]
 
-export const EMAILJS_CONFIG = {
-  serviceId: 'FILL_EMAILJS_SERVICE_ID',
-  templateId: 'FILL_EMAILJS_TEMPLATE_ID',
-  publicKey: 'FILL_EMAILJS_PUBLIC_KEY',
-}
+// export const EMAILJS_CONFIG = {
+//   serviceId: 'service_0kx3gp3',
+//   templateId: 'template_m43ktsq',
+//   publicKey: 'MPwANOH-KNtzjOWJd',
+// }
 
 export const PROFILE = {
   name: 'Yash Gupta',
