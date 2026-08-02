@@ -1,5 +1,7 @@
 # Yash Gupta — Portfolio
 
+[live link](https://portfolio-website-iota-five-77.vercel.app)
+
 A premium, product-style software engineer portfolio built with React, Vite, Tailwind CSS, and Framer Motion. Inspired by the design language of Vercel, Linear, GitHub, and Apple: dark, minimal, purposeful.
 
 ## Tech Stack
