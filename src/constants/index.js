@@ -2,7 +2,7 @@ export const SOCIAL_LINKS = {
   github: 'https://github.com/YASH-GUPTA995',
   linkedin: 'https://www.linkedin.com/in/yash-gupta-nit-delhi/',
   leetcode: 'https://leetcode.com/u/YASH_GUPTA_0995',
-  resume: '',
+  resume: 'https://drive.google.com/file/d/1l3hk8XjoIB4AGydk8ACRCS09wK1cBh-Y/view?usp=sharing',
   email: 'engineeryash0995@gmail.com',
 }
 
@@ -33,17 +33,17 @@ export const QUICK_FACTS = [
   'ML Enthusiast',
 ]
 
-// export const EMAILJS_CONFIG = {
-//   serviceId: 'service_0kx3gp3',
-//   templateId: 'template_m43ktsq',
-//   publicKey: 'MPwANOH-KNtzjOWJd',
-// }
-
 export const EMAILJS_CONFIG = {
-  serviceId: import.meta.env.VITE_EMAILJS_SERVICE_ID,
-  templateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
-  publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
+  serviceId: 'service_0kx3gp3',
+  templateId: 'template_m43ktsq',
+  publicKey: 'MPwANOH-KNtzjOWJd',
 }
+
+// export const EMAILJS_CONFIG = {
+//   serviceId: import.meta.env.VITE_EMAILJS_SERVICE_ID,
+//   templateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+//   publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
+// }
 
 
 export const PROFILE = {
